@@ -4,12 +4,12 @@
 # A script for administration of redis server.                                                               #
 #                                                                                                            #
 # License: GPLv3                                                                                             #
-#													                                                         #
+#											                     #
 # For your own responsibility, no warranty for using.                                                        #
 #                                                                                                            #
 # At present: only binary backup and enter to redis-shell is implemented.                                    #
 #                                                                                                            #
-# Tested on Centos7, on redis-server 3.2.	                                                                 #
+# Tested on Centos7, on redis-server 3.2.	                                                             #
 # ---------------------------------------------------------------------------------------------------------- #
 """
 
